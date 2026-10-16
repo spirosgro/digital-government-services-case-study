@@ -1,0 +1,6 @@
+rank,service,citizen_value,operational_benefit,feasibility,compliance_simplicity,delivery_simplicity,score,wave
+1,Infrastructure issue reporting,4.5,4.5,4.0,4.0,4.0,4.28,Pilot
+2,Facility booking and appointments,4.0,4.0,4.5,4.0,4.0,4.1,Pilot
+3,Digital certificate issuance,5.0,5.0,3.0,3.0,2.0,3.95,Integrate
+4,Municipal debt payments,5.0,5.0,3.0,2.0,2.0,3.85,Integrate
+5,Digital participation platform,3.5,3.0,3.5,4.0,3.0,3.35,Expand

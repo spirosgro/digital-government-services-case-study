@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this case study, please cite it as below."
+title: "Digital Government Services for a Greek Municipality"
+type: software
+authors:
+  - family-names: "Grouztidis"
+    given-names: "Spiros"
+version: 1.0.0
+date-released: 2026-10-16
+license: CC-BY-4.0
+repository-code: "https://github.com/spirosgro/digital-government-services-case-study"
+abstract: "A portfolio case study for prioritising and governing five citizen-facing digital services for a medium-sized Greek municipality."
+keywords:
+  - digital-government
+  - e-government
+  - public-sector
+  - service-design
+  - GDPR
+  - cybersecurity
+  - interoperability

@@ -1,0 +1,9 @@
+id,risk,likelihood,impact,controls,evidence
+R1,Identity fraud or account takeover,High,High,"Strong authentication, MFA for staff, rate limiting, fraud monitoring",IAM configuration; authentication logs
+R2,Excessive collection or retention of personal data,Medium,High,"Data minimisation, retention schedule, deletion jobs, DPIA where required",Record of processing; retention evidence
+R3,Legacy integration failure or inaccurate data exchange,High,High,"API contracts, reconciliation, retry queues, staged cutover",Interface tests; reconciliation reports
+R4,Service outage or destructive cyber incident,Medium,High,"Backups, tested recovery, monitoring, incident response, supplier escalation",Restore tests; incident exercises
+R5,Inaccessible service excludes residents,Medium,High,"EN 301 549/WCAG-aligned acceptance tests, assisted channel, accessibility statement",Audit results; user testing
+R6,Supplier lock-in and loss of operational knowledge,High,Medium,"Open standards, exit clauses, documentation, code escrow where justified",Exit plan; architecture decision records
+R7,Incorrect payment matching or duplicate transaction,Medium,High,"Hosted payment flow, idempotency keys, reconciliation, segregation of duties",Payment reconciliation; exception log
+R8,Low adoption despite technical delivery,Medium,Medium,"Service research, staff involvement, assisted digital support, adoption monitoring",User research; adoption dashboard
