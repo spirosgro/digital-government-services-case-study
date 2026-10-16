@@ -1,6 +1,5 @@
 # Digital Government Services for a Greek Municipality
 
-[![Repository validation](https://github.com/spirosgro/digital-government-services-case-study/actions/workflows/validate.yml/badge.svg)](https://github.com/spirosgro/digital-government-services-case-study/actions/workflows/validate.yml)
 [![Documentation: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-1f7a8c.svg)](LICENSE.md)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-334155.svg)](LICENSE-CODE)
 
